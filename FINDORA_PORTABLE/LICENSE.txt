@@ -1,0 +1,2 @@
+Findora Portable application code is provided for personal and educational use.
+Third-party runtime/model downloads are governed by their own licenses. Review the llama.cpp and Qwen model licenses before redistribution.
